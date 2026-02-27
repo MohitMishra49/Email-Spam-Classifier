@@ -1,3 +1,11 @@
 streamlit
 nltk
-sklearn
+scikit-learn
+
+fuzzywuzzy
+python-Levenshtein
+distance
+beautifulsoup4
+pandas
+numpy
+nltk
