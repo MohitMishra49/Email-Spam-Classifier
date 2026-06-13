@@ -1,3 +1,3 @@
 Email Spam Classifier 
 
-Live demo link - https://email-spam-classifier-ut5k.onrender.com
+Live demo link - https://email-frontend-dl1y.onrender.com/
